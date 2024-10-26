@@ -1,4 +1,9 @@
+# Sys Info
+
+**This ROS2 package is deprecated, please use [sys_info](../../../sys-info/tree/main) instead!**
+
 # Net Node
+
 ROS 2 Network information node.
 
 Allows you to get information on your ROS 2 robot via ROS 2 itself.
